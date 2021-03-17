@@ -1,0 +1,14 @@
+.login-page {
+	@include authPage;
+
+	&__create-account {
+		width: 100%;
+		text-align: center;
+		margin-top: 1rem;
+		cursor: pointer;
+	}
+
+	&__inner {
+		@include inner;
+	}
+}

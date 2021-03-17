@@ -1,0 +1,16 @@
+{
+    "label.chat": "Chat",
+    "label.login": "Login",
+    "label.submit": "Submit",
+    "label.password": "Password",
+    "label.enter_password": "Enter password",
+    "label.create_account": "Create account",
+    "label.signup": "Signup",
+    "label.name": "Name",
+    "label.enter_name": "Enter name",
+    "label.back_to_login": "Back to login",
+    "label.welcome": "Welcome",
+    "label.logout": "Logout",
+    "label.send": "Send",
+    "label.you": "You"
+}
